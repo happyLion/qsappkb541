@@ -1,138 +1,138 @@
 [
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_comment.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\tpl_list_comment.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_config.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_config.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_dialog.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\main_dialog.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_face.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_face.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_edit.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_edit.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\recordvideo_layout.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\recordvideo_layout.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_comment.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_comment.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_write.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_write.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_blog.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_blog.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_index.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_index.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_blog.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_blog.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_test.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_test.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_config.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_config.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_load.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\main_load.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_index.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_index.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\exploded-aar\\QS\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_blogs.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_blogs.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\main_layout.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\camera_activity_titlebar.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\camera_activity_titlebar.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_blogs.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_blogs.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\main_tab.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_config.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\tpl_list_config.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\recordvideo_layout.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\recordvideo_layout.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_login.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_login.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_config.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_config.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_blog.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_blog.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_table.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\test_table.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_table.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\test_table.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\config_custom.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\config_custom.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\pic_enlarge.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\pic_enlarge.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\demo_web.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\demo_web.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_top.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\main_top.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_info.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\tpl_list_info.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\config_custom.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\config_custom.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_blog.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\tpl_list_blog.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\demo_web.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\demo_web.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_merge.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\test_merge.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_test.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_test.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_mytip.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_mytip.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_merge.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\test_merge.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_dialog.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\main_dialog.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_info.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_info.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\pic_enlarge.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\pic_enlarge.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\demo_map.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\demo_map.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_menu.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\tpl_list_menu.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_login.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_login.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\main_tab.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\new_config.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\new_config.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\help_doc.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\help_doc.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_blogs.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_blogs.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\new_config.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\new_config.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_face.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_face.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_top.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\main_top.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_write.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_write.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\camera_activity_titlebar.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\camera_activity_titlebar.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\help_doc.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\help_doc.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_frame.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\test_frame.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_menu.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_menu.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_edit.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\ui_edit.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_frame.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\test_frame.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\exploded-aar\\QS\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_mytip.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_mytip.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_blogs.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\tpl_list_blogs.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_load.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\main_load.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\demo_map.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\res\\layout\\demo_map.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\main_layout.xml"
     }
 ]

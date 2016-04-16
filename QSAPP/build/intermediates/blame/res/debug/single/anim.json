@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\exploded-aar\\QS\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\exploded-aar\\QS\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\exploded-aar\\QS\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\QSAPP\\build\\intermediates\\exploded-aar\\QS\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
     }
 ]

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\LabAppAsVersion\QS\main\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\LabAppAsVersion\QS\main\build-types\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\qsProject\qsapp\main\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\qsProject\qsapp\main\build-types\debug\jniLibs"/></dataSet></merger>

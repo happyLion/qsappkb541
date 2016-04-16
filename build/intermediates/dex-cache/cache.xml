@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="7f6b0c8d9c31627efee8b67a8d4640a6d12f0a19">
-        <dex dex="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6553cb160af824fdabc3ca239c334fcfacb11ec9\classes.dex" />
-    </item>
-    <item
-        jar="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5f7f54325defefedc52a5e87f0bcb4f0bbb9bb60">
-        <dex dex="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_adbdae649097ee3a132846595b73bcf0d5954be3\classes.dex" />
-    </item>
-    <item
-        jar="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\exploded-aar\QS\SwipeMenuListView\unspecified\jars\libs\android-support-v4.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67dd3d8fa182db29e5b8d0d0e0f9af58c6c76b38">
-        <dex dex="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_bec08b696df42b4ecf2178d32a056719961ce798\classes.dex" />
-    </item>
-    <item
-        jar="D:\LabAppAsVersion\QS\QSAPP\libs\android-support-v4.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
-        <dex dex="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_806c19c69dfb6dbddc1fc86e2baf90338a0a88df\classes.dex" />
-    </item>
-    <item
-        jar="D:\LabAppAsVersion\QS\QSAPP\libs\httpmime-4.1.3.jar"
+        jar="D:\qsProject\qsapp\QSAPP\libs\httpmime-4.1.3.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
-        <dex dex="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_10df5331cc60893b564f3dd5af3fab6b80b84a1b\classes.dex" />
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_d31668f0c4e001e806980801918ad52d910886f8\classes.dex" />
     </item>
     <item
-        jar="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\exploded-aar\QS\WeiboSDK\unspecified\jars\libs\weibosdkcore.jar"
+        jar="D:\qsProject\qsapp\QSAPP\build\intermediates\exploded-aar\qsapp\WeiboSDK\unspecified\jars\libs\weibosdkcore.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="cf01faf66ae76f840d2dabf48fc52d3cac8ccb03">
-        <dex dex="D:\LabAppAsVersion\QS\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\weibosdkcore_a21208565e24e8513b2e6437db5d6e38cb4b4d2f\classes.dex" />
+        sha1="98f33fbfe02644cbb4c992bc4e6763eec21db05a">
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\weibosdkcore_398145e22cc76ae8d1e8054a2ed35c686359eab5\classes.dex" />
+    </item>
+    <item
+        jar="D:\qsProject\qsapp\QSAPP\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_26491da21143dd18e35665ea5d446a94a8712065\classes.dex" />
+    </item>
+    <item
+        jar="D:\qsProject\qsapp\QSAPP\build\intermediates\exploded-aar\qsapp\WeiboSDK\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60f7e1499d6d35b050d33b1589072f05fcd9e56f">
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_f5a4de7687520a5ed88b75288b62294b6a36445f\classes.dex" />
+    </item>
+    <item
+        jar="D:\qsProject\qsapp\QSAPP\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0a72b3e3cb963f2477d67e19cdf70115f9fd7476">
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a71b3318f2039b62105145214408b11e547aae87\classes.dex" />
+    </item>
+    <item
+        jar="D:\qsProject\qsapp\QSAPP\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e8c7a1ef7509202365fdb83ebd4d4aa23cb61f7">
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f61aeb470c99b1aac0b87fda8bb32c267f8bdc87\classes.dex" />
     </item>
 
 </items>

@@ -3,12 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OpenCV Library - 3.0.0/OpenCV Library - 3.0.0.iml" filepath="$PROJECT_DIR$/OpenCV Library - 3.0.0/OpenCV Library - 3.0.0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QS.iml" filepath="$PROJECT_DIR$/QS.iml" />
       <module fileurl="file://$PROJECT_DIR$/QSAPP/QSAPP.iml" filepath="$PROJECT_DIR$/QSAPP/QSAPP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwipeMenuListView/SwipeMenuListView.iml" filepath="$PROJECT_DIR$/SwipeMenuListView/SwipeMenuListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeiboSDK/WeiboSDK.iml" filepath="$PROJECT_DIR$/WeiboSDK/WeiboSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qsapp.iml" filepath="$PROJECT_DIR$/qsapp.iml" />
     </modules>
   </component>
 </project>

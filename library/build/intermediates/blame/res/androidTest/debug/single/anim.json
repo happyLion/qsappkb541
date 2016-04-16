@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+        "merged": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+        "merged": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+        "merged": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
-        "merged": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
-        "source": "D:\\LabAppAsVersion\\QS\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+        "merged": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\qsProject\\qsapp\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
     }
 ]
