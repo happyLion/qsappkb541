@@ -12,7 +12,7 @@
         jar="D:\qsProject\qsapp\QSAPP\build\intermediates\exploded-aar\qsapp\WeiboSDK\unspecified\jars\libs\weibosdkcore.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="98f33fbfe02644cbb4c992bc4e6763eec21db05a">
+        sha1="c5b738fd7e177f44cf06c95138746d624f005fc4">
         <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\weibosdkcore_398145e22cc76ae8d1e8054a2ed35c686359eab5\classes.dex" />
     </item>
     <item
@@ -26,22 +26,29 @@
         jar="D:\qsProject\qsapp\QSAPP\build\intermediates\exploded-aar\qsapp\WeiboSDK\unspecified\jars\libs\android-support-v4.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="60f7e1499d6d35b050d33b1589072f05fcd9e56f">
+        sha1="368a883e784591d4c34d9725028046dfd514c46f">
         <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_f5a4de7687520a5ed88b75288b62294b6a36445f\classes.dex" />
     </item>
     <item
         jar="D:\qsProject\qsapp\QSAPP\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="0a72b3e3cb963f2477d67e19cdf70115f9fd7476">
+        sha1="b848a8a5131dcb3133c6c15b13866c1d8f7c6c98">
         <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a71b3318f2039b62105145214408b11e547aae87\classes.dex" />
     </item>
     <item
         jar="D:\qsProject\qsapp\QSAPP\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="1e8c7a1ef7509202365fdb83ebd4d4aa23cb61f7">
+        sha1="8ee53283552ec71de852f79a3e162c96c967178f">
         <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f61aeb470c99b1aac0b87fda8bb32c267f8bdc87\classes.dex" />
+    </item>
+    <item
+        jar="D:\qsProject\qsapp\QSAPP\build\intermediates\exploded-aar\qsapp\SwipeMenuListView\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c61a51cbc1d22885adbe8a84a8edd6a945a5f963">
+        <dex dex="D:\qsProject\qsapp\QSAPP\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_c6b6d01f5e3b43941faf4af9dadffe98bef9269d\classes.dex" />
     </item>
 
 </items>
