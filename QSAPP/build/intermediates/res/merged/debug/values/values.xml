@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#f1e3e4</color>
+    <color name="black">#000000</color>
+    <color name="body1">#FFFFFF</color>
+    <color name="body2">#F9F9F9</color>
+    <color name="com_sina_weibo_sdk_blue">#3B5998</color>
+    <color name="com_sina_weibo_sdk_loginview_text_color">#FFFFFF</color>
+    <color name="divider1">#DDDDDD</color>
+    <color name="divider2">#EEEEEE</color>
+    <color name="divider3">#FFFFFF</color>
+    <color name="gray">#FFFFEE</color>
+    <color name="loading">#99000000</color>
+    <color name="menu1">#EEEEEE</color>
+    <color name="menu2">#BBBBBB</color>
+    <color name="red">#FF0000</color>
+    <color name="text">#333333</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding">12dip</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_bottom">6dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_left">12dip</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_right">16dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_top">6dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_text_size">16.0sp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <drawable name="darkgray">#808080FF </drawable>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <item name="gridview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="webview" type="id"/>
+    <string name="app_name">QS监控助手</string>
+    <string name="app_version">v1.2</string>
+    <string name="blog_comment">备注</string>
+    <string name="btn_addfans">订阅</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_comment">备注</string>
+    <string name="btn_confirm">确认</string>
+    <string name="com_sina_weibo_sdk_login">登录</string>
+    <string name="com_sina_weibo_sdk_login_with_weibo_account">用微博登录</string>
+    <string name="com_sina_weibo_sdk_logout">注销</string>
+    <string name="config_face">修改头像</string>
+    <string name="config_monitor">开始监控</string>
+    <string name="config_recordVideo">录制视频</string>
+    <string name="config_sign">修改签名</string>
+    <string name="customer_blog">异动</string>
+    <string name="customer_fans">订阅者</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="edit_submit">保存</string>
+    <string name="hello">Hello World!</string>
+    <string name="login_password">密码</string>
+    <string name="login_remember">记住密码</string>
+    <string name="login_submit">登录</string>
+    <string name="login_title">用户登录</string>
+    <string name="login_username">账户</string>
+    <string name="menu_app_about">应用信息</string>
+    <string name="menu_app_logout">退出登录</string>
+    <string name="menu_app_write">帮助文档</string>
+    <string name="menu_demo_map">地图示例</string>
+    <string name="menu_demo_test">测试示例</string>
+    <string name="menu_demo_web">网页示例</string>
+    <string name="menu_image_size">Size</string>
+    <string name="menu_next_camera">Next Cam</string>
+    <string name="menu_take_photo">Take Photo</string>
+    <string name="msg_loginfail">登录失败</string>
+    <string name="photo_delete_prompt_message">This photo is saved in your Gallery. Do you want to delete it?</string>
+    <string name="photo_delete_prompt_title">Delete photo?</string>
+    <string name="photo_edit_chooser_title">Edit photo with…</string>
+    <string name="photo_error_message">Failed to save photo</string>
+    <string name="photo_send_chooser_title">Share photo with…</string>
+    <string name="photo_send_extra_subject">My photo from Second Sight</string>
+    <string name="photo_send_extra_text">Check out my photo from the Second Sight app! http://nummist.com/opencv/</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="share">Share</string>
+    <string name="weibosdk_demo_toast_auth_canceled">取消授权</string>
+    <string name="weibosdk_demo_toast_auth_failed">授权失败</string>
+    <string name="weibosdk_demo_toast_auth_success">授权成功</string>
+    <string name="weibosdk_demo_token_has_existed">Token 仍在有效期内，无需再次登录。</string>
+    <string name="weibosdk_demo_token_to_string_format_1">Token：%1$s \n有效期：%2$s</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="com.app.demos.theme.light" parent="android:Theme.Light">
+		<item name="android:windowNoTitle">true</item>
+	</style>
+    <style name="com.app.demos.theme.login" parent="android:Theme.Light">
+		<item name="android:windowNoTitle">true</item>
+	</style>
+    <style name="com.app.weibo.theme.dialog" parent="android:Theme.Dialog">
+		<!--<item name="android:windowFrame">@null</item> -->
+		<!--<item name="android:windowIsFloating">true</item> -->
+		<!--<item name="android:windowIsTranslucent">false</item> -->
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@null</item>
+		<!--<item name="android:backgroundDimEnabled">false</item> -->
+	</style>
+    <style name="com_sina_weibo_sdk_loginview_default_style" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/com_sina_weibo_sdk_loginview_padding_left</item>
+        <item name="android:paddingTop">@dimen/com_sina_weibo_sdk_loginview_padding_top</item>
+        <item name="android:paddingRight">@dimen/com_sina_weibo_sdk_loginview_padding_right</item>
+        <item name="android:paddingBottom">@dimen/com_sina_weibo_sdk_loginview_padding_bottom</item>
+        <item name="android:drawableLeft">@drawable/ic_com_sina_weibo_sdk_logo</item>
+        <item name="android:drawablePadding">@dimen/com_sina_weibo_sdk_loginview_compound_drawable_padding</item>
+        <item name="android:background">@drawable/com_sina_weibo_sdk_button_blue</item>
+        <item name="android:textColor">@color/com_sina_weibo_sdk_loginview_text_color</item>
+        <item name="android:textSize">@dimen/com_sina_weibo_sdk_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/com_sina_weibo_sdk_login_with_weibo_account</item>
+    </style>
+    <style name="com_sina_weibo_sdk_loginview_silver_style" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/com_sina_weibo_sdk_loginview_padding_left</item>
+        <item name="android:paddingTop">@dimen/com_sina_weibo_sdk_loginview_padding_top</item>
+        <item name="android:paddingRight">@dimen/com_sina_weibo_sdk_loginview_padding_right</item>
+        <item name="android:paddingBottom">@dimen/com_sina_weibo_sdk_loginview_padding_bottom</item>
+        <item name="android:drawableLeft">@drawable/ic_com_sina_weibo_sdk_logo</item>
+        <item name="android:drawablePadding">@dimen/com_sina_weibo_sdk_loginview_compound_drawable_padding</item>
+        <item name="android:background">@drawable/com_sina_weibo_sdk_button_grey</item>
+        <item name="android:textColor">#4B5164</item>
+        <item name="android:textSize">@dimen/com_sina_weibo_sdk_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/com_sina_weibo_sdk_login_with_weibo_account</item>
+    </style>
+</resources>

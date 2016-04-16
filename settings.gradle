@@ -1,0 +1,6 @@
+include ':main'
+include ':WeiboSDK'
+include ':QSAPP'
+include ':library'
+include ':SwipeMenuListView'
+include ':OpenCV Library - 3.0.0'
