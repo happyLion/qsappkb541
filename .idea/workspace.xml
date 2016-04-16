@@ -4,862 +4,30 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3234fc80-f9da-42b6-a01f-9a3f868395b2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/test/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/test/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/classes/androidTest/debug/org/opencv/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/OpenCV Library - 3.0.0/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/OpenCV Library - 3.0.0/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/OpenCV Library - 3.0.0/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/OpenCV Library - 3.0.0/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/OpenCV Library - 3.0.0/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/jars/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/res/drawable-hdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/res/drawable-mdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/res/drawable-xhdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/res/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/res/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/SwipeMenuListView/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/jars/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/jars/libs/weibosdkcore.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_button_blue_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_button_blue_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_button_blue_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_button_grey_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_button_grey_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_button_grey_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_login_with_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-hdpi-v4/ic_com_sina_weibo_sdk_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_button_blue_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_button_blue_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_button_blue_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_button_grey_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_button_grey_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_button_grey_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_login_with_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-mdpi-v4/ic_com_sina_weibo_sdk_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_button_blue_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_button_blue_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_button_blue_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_button_grey_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_button_grey_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_button_grey_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xhdpi-v4/ic_com_sina_weibo_sdk_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xxhdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xxhdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xxhdpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xxhdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xxhdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable-xxhdpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable/com_sina_weibo_sdk_button_blue.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable/com_sina_weibo_sdk_button_grey.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable/com_sina_weibo_sdk_login_button_with_account_text.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable/com_sina_weibo_sdk_login_button_with_frame_logo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/drawable/com_sina_weibo_sdk_login_button_with_original_logo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/values-en/values-en.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/WeiboSDK/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/anim/slide_in_from_bottom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/anim/slide_in_from_top.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/anim/slide_out_to_bottom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/anim/slide_out_to_top.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-hdpi-v4/default_ptr_flip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-hdpi-v4/default_ptr_rotate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-hdpi-v4/indicator_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-mdpi-v4/default_ptr_flip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-mdpi-v4/default_ptr_rotate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-mdpi-v4/indicator_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-xhdpi-v4/default_ptr_flip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-xhdpi-v4/default_ptr_rotate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable-xhdpi-v4/indicator_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable/indicator_bg_bottom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/drawable/indicator_bg_top.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/layout/pull_to_refresh_header_horizontal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/layout/pull_to_refresh_header_vertical.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-ar/values-ar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-cs/values-cs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-de/values-de.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-es/values-es.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-fi/values-fi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-fr/values-fr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-he/values-he.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-it/values-it.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-iw/values-iw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-ja/values-ja.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-ko/values-ko.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-nl/values-nl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-pl/values-pl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-pt/values-pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-ro/values-ro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-ru/values-ru.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values-zh/values-zh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/library/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/main/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/main/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/exploded-aar/QS/main/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6553cb160af824fdabc3ca239c334fcfacb11ec9/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_adbdae649097ee3a132846595b73bcf0d5954be3/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_806c19c69dfb6dbddc1fc86e2baf90338a0a88df/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.3_10df5331cc60893b564f3dd5af3fab6b80b84a1b/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/dex/debug/folders/1000/8/android-support-v4_bec08b696df42b4ecf2178d32a056719961ce798/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/dex/debug/folders/1000/8/weibosdkcore_a21208565e24e8513b2e6437db5d6e38cb4b4d2f/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/ILoadingLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/IPullToRefresh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/LoadingLayoutProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/OverscrollHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/OverscrollHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshAdapterViewBase$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshAdapterViewBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$AnimationStyle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$Mode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$OnLastItemVisibleListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$OnPullEventListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$OnRefreshListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$OnRefreshListener2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$OnSmoothScrollFinishedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$Orientation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$SmoothScrollRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshExpandableListView$InternalExpandableListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshExpandableListView$InternalExpandableListViewSDK9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshExpandableListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshGridView$InternalGridView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshGridView$InternalGridViewSDK9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshGridView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshHorizontalScrollView$InternalHorizontalScrollViewSDK9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshHorizontalScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshListView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshListView$InternalListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshListView$InternalListViewSDK9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshScrollView$InternalScrollViewSDK9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshWebView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshWebView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshWebView$InternalWebViewSDK9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/PullToRefreshWebView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2$JsValueCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/extras/SoundPullEventListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/EmptyViewMethodAccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/FlipLoadingLayout$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/FlipLoadingLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/IndicatorLayout$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/IndicatorLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/LoadingLayout$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/LoadingLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/RotateLoadingLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/Utils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/ViewCompat$SDK11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/ViewCompat$SDK16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--126884814/com/handmark/pulltorefresh/library/internal/ViewCompat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/Compat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/DefaultOnDoubleTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/IPhotoView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$AnimatedZoomRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$FlingRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$OnMatrixChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$OnPhotoTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$OnScaleChangeListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher$OnViewTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/PhotoViewAttacher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/CupcakeGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/EclairGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/FroyoGestureDetector$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/FroyoGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/GestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/OnGestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/gestures/VersionedGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/log/LogManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/log/Logger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/log/LoggerDefault.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/scrollerproxy/GingerScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/scrollerproxy/IcsScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/scrollerproxy/PreGingerScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1310824422/uk/co/senab/photoview/scrollerproxy/ScrollerProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/countryCode.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/countryCodeEn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/countryCodeTw.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/common_button_white.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/common_button_white_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/ic_com_sina_weibo_sdk_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/timeline_relationship_icon_addattention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/timeline_relationship_icon_attention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_common_button_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_common_button_alpha_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_common_shadow_top.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_empty_failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_navigationbar_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_navigationbar_back_highlighted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_navigationbar_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-hdpi/weibosdk_notification_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-ldpi/ic_com_sina_weibo_sdk_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-mdpi/ic_com_sina_weibo_sdk_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-mdpi/weibosdk_notification_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/common_button_big_blue.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/common_button_big_blue_disable.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/common_button_big_blue_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/common_button_white.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/common_button_white_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/get_code_button.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/get_code_button_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/ic_com_sina_weibo_sdk_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/login_bottom_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/login_country_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/login_country_background_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/login_top_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/search_clear_btn_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/search_clear_btn_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/tableview_sectionheader_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/timeline_icon_add_friends.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/timeline_icon_attention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/triangle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_common_button_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_common_button_alpha_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_common_shadow_top.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_empty_failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_navigationbar_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_navigationbar_back_highlighted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_navigationbar_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xhdpi/weibosdk_notification_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/get_code_button.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/get_code_button_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/ic_com_sina_weibo_sdk_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/login_country_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/login_country_background_highlighted.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/weibosdk_navigationbar_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable-xxhdpi/weibosdk_navigationbar_back_highlighted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable/sdk_weibo_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/drawable/weibosdk_dialog_bg.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/assets/pinyinindex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/codestyle/CodingRuler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/codestyle/SampleCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/net/cacert_cn.cer" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/net/cacert_com.cer" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/AbsOpenAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/CommentsAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/InviteAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/LogoutAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/StatusesAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/UsersAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/AccountAPI$CAPITAL.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/AccountAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/ActivityInvokeAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/CommonAPI$CAPITAL.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/CommonAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/FavoritesAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/FriendshipsAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/GroupAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/LocationAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/PlaceAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/RegisterAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/SearchAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/ShortUrlAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/StatusesAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/SuggestionsAPI$STATUSES_TYPE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/SuggestionsAPI$USER_CATEGORY.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/SuggestionsAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/TagsAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/legacy/TrendsAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/AbsDataObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Comment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/CommentList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Coordinate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/ErrorInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Favorite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/FavoriteList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Geo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/GeoList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Group.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/GroupList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/GroupTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/IParseable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/MusicInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/OffsetGeo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Poi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/PoiList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Privacy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Remind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Status.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/StatusList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Tag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/openapi/models/Visible.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/widget/LoginButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/widget/LoginoutButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/widget/LoginoutButton$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--1889548127/com/sina/weibo/sdk/widget/LoginoutButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/AsyncServiceHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/AsyncServiceHelper$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/AsyncServiceHelper$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/AsyncServiceHelper$3$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/AsyncServiceHelper$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/AsyncServiceHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/BaseLoaderCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase$CvCameraViewFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase$CvCameraViewListenerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase$ListItemAccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/CameraBridgeViewBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/FpsMeter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/InstallCallbackInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/JavaCameraView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/JavaCameraView$CameraWorker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/JavaCameraView$JavaCameraFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/JavaCameraView$JavaCameraSizeAccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/JavaCameraView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/LoaderCallbackInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/OpenCVLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/StaticHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/android/Utils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/calib3d/Calib3d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/calib3d/StereoBM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/calib3d/StereoMatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/calib3d/StereoSGBM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Algorithm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Core$MinMaxLocResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Core.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/CvException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/CvType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/DMatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/KeyPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Mat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfByte.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfDMatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfDouble.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfFloat4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfFloat6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfInt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfInt4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfKeyPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfPoint2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfPoint3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfPoint3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/MatOfRect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Point3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Range.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Rect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/RotatedRect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Scalar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/Size.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/core/TermCriteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/engine/OpenCVEngineInterface$Stub$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/engine/OpenCVEngineInterface$Stub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/engine/OpenCVEngineInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/features2d/DescriptorExtractor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/features2d/DescriptorMatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/features2d/FeatureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/features2d/Features2d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/imgcodecs/Imgcodecs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/imgproc/CLAHE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/imgproc/Imgproc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/imgproc/LineSegmentDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/imgproc/Subdiv2D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/ANN_MLP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/Boost.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/DTrees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/EM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/KNearest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/LogisticRegression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/Ml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/NormalBayesClassifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/RTrees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/SVM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/StatModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/ml/TrainData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/objdetect/BaseCascadeClassifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/objdetect/CascadeClassifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/objdetect/HOGDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/objdetect/Objdetect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/AlignExposures.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/AlignMTB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/CalibrateCRF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/CalibrateDebevec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/CalibrateRobertson.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/MergeDebevec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/MergeExposures.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/MergeMertens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/MergeRobertson.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/Photo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/Tonemap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/TonemapDrago.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/TonemapDurand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/TonemapMantiuk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/photo/TonemapReinhard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/utils/Converters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/BackgroundSubtractor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/BackgroundSubtractorKNN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/BackgroundSubtractorMOG2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/DenseOpticalFlow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/DualTVL1OpticalFlow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/KalmanFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/video/Video.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/videoio/VideoCapture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-1594752567/org/opencv/videoio/Videoio.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuAdapter$OnContentItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuCreator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuLayout$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuListView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuListView$OnMenuItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuListView$OnSwipeListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuView$OnSwipeItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-250593585/com/baoyz/swipemenulistview/SwipeMenuView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/test/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/test/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/test/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/classes/androidTest/debug/com/baoyz/swipemenulistview/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/classes/androidTest/debug/com/sina/weibo/sdk/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build/intermediates/classes/androidTest/debug/com/handmark/pulltorefresh/library/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/build/intermediates/classes/androidTest/debug/uk/co/senab/photoview/test/BuildConfig.class" afterPath="" />
+    <list default="true" id="93f58422-7cca-481b-890f-a98f856eac75" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/compileReleaseAidl/dependency.store" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/outputs/aar/OpenCV Library - 3.0.0-debug.aar" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/outputs/aar/OpenCV Library - 3.0.0-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/outputs/aar/OpenCV Library - 3.0.0-release.aar" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/outputs/aar/OpenCV Library - 3.0.0-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/instant-run-support/debug/classes.zip" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/instant-run-support/debug/classes.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/instant-run-support/debug/resources.zip" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/instant-run-support/debug/resources.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/outputs/apk/QSAPP-debug-unaligned.apk" afterPath="$PROJECT_DIR$/QSAPP/build/outputs/apk/QSAPP-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/outputs/apk/QSAPP-debug.apk" afterPath="$PROJECT_DIR$/QSAPP/build/outputs/apk/QSAPP-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/libs/android-support-v4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/libs/android-support-v4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/outputs/aar/SwipeMenuListView-debug.aar" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/outputs/aar/SwipeMenuListView-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/outputs/aar/SwipeMenuListView-release.aar" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/outputs/aar/SwipeMenuListView-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/libs/android-support-v4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/libs/weibosdkcore.jar" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/libs/weibosdkcore.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/libs/android-support-v4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/libs/weibosdkcore.jar" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/libs/weibosdkcore.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/outputs/aar/WeiboSDK-debug.aar" afterPath="$PROJECT_DIR$/WeiboSDK/build/outputs/aar/WeiboSDK-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/outputs/aar/WeiboSDK-release.aar" afterPath="$PROJECT_DIR$/WeiboSDK/build/outputs/aar/WeiboSDK-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/library/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/main/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/main/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/main/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/outputs/aar/main-debug.aar" afterPath="$PROJECT_DIR$/main/build/outputs/aar/main-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/outputs/aar/main-release.aar" afterPath="$PROJECT_DIR$/main/build/outputs/aar/main-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/OpenCV Library - 3.0.0.iml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/OpenCV Library - 3.0.0.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/buildConfig/androidTest/debug/org/opencv/test/BuildConfig.java" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/buildConfig/androidTest/debug/org/opencv/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/buildConfig/release/org/opencv/BuildConfig.java" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/buildConfig/release/org/opencv/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/r/androidTest/debug/org/opencv/R.java" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/generated/source/r/androidTest/debug/org/opencv/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/OpenCV Library - 3.0.0/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/.gitignore" afterPath="$PROJECT_DIR$/QSAPP/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/QSAPP.iml" afterPath="$PROJECT_DIR$/QSAPP/QSAPP.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/generated/source/buildConfig/androidTest/debug/com/myqsmy/app/test/BuildConfig.java" afterPath="$PROJECT_DIR$/QSAPP/build/generated/source/buildConfig/androidTest/debug/com/myqsmy/app/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/generated/source/buildConfig/debug/com/myqsmy/app/BuildConfig.java" afterPath="$PROJECT_DIR$/QSAPP/build/generated/source/buildConfig/debug/com/myqsmy/app/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/com/baoyz/swipemenulistview/R.java" afterPath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/com/baoyz/swipemenulistview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/com/handmark/pulltorefresh/library/R.java" afterPath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/com/handmark/pulltorefresh/library/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/com/sina/weibo/sdk/R.java" afterPath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/com/sina/weibo/sdk/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/org/opencv/R.java" afterPath="$PROJECT_DIR$/QSAPP/build/generated/source/r/debug/org/opencv/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-en.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-he.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-he.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-it.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-pt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-zh.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values-zh.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-en/values-en.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-he/values-he.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-he/values-he.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-iw/values-iw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ro/values-ro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values-zh/values-zh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/QSAPP/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSAPP/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/QSAPP/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/.gitignore" afterPath="$PROJECT_DIR$/SwipeMenuListView/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/SwipeMenuListView.iml" afterPath="$PROJECT_DIR$/SwipeMenuListView/SwipeMenuListView.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/buildConfig/androidTest/debug/com/baoyz/swipemenulistview/test/BuildConfig.java" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/buildConfig/androidTest/debug/com/baoyz/swipemenulistview/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/buildConfig/debug/com/baoyz/swipemenulistview/BuildConfig.java" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/buildConfig/debug/com/baoyz/swipemenulistview/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/buildConfig/release/com/baoyz/swipemenulistview/BuildConfig.java" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/buildConfig/release/com/baoyz/swipemenulistview/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/r/androidTest/debug/com/baoyz/swipemenulistview/R.java" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/generated/source/r/androidTest/debug/com/baoyz/swipemenulistview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/res/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/res/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/res/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/res/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/res/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/res/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/res/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/res/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/SwipeMenuListView/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/.gitignore" afterPath="$PROJECT_DIR$/WeiboSDK/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/WeiboSDK.iml" afterPath="$PROJECT_DIR$/WeiboSDK/WeiboSDK.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/generated/source/buildConfig/androidTest/debug/com/sina/weibo/sdk/test/BuildConfig.java" afterPath="$PROJECT_DIR$/WeiboSDK/build/generated/source/buildConfig/androidTest/debug/com/sina/weibo/sdk/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/generated/source/buildConfig/debug/com/sina/weibo/sdk/BuildConfig.java" afterPath="$PROJECT_DIR$/WeiboSDK/build/generated/source/buildConfig/debug/com/sina/weibo/sdk/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/generated/source/buildConfig/release/com/sina/weibo/sdk/BuildConfig.java" afterPath="$PROJECT_DIR$/WeiboSDK/build/generated/source/buildConfig/release/com/sina/weibo/sdk/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/generated/source/r/androidTest/debug/com/sina/weibo/sdk/R.java" afterPath="$PROJECT_DIR$/WeiboSDK/build/generated/source/r/androidTest/debug/com/sina/weibo/sdk/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/multi/values-en.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/multi/values-en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-ldpi-v4.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-ldpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/res/values-en/values-en.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/res/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/res/values-en/values-en.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/res/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/res/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/res/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/merged/androidTest/debug/values-en/values-en.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/merged/androidTest/debug/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/merged/androidTest/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/merged/androidTest/debug/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/WeiboSDK/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/androidTest/debug/com/handmark/pulltorefresh/library/test/BuildConfig.java" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/androidTest/debug/com/handmark/pulltorefresh/library/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/com/handmark/pulltorefresh/library/BuildConfig.java" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/com/handmark/pulltorefresh/library/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/com/handmark/pulltorefresh/library/BuildConfig.java" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/com/handmark/pulltorefresh/library/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/r/androidTest/debug/com/handmark/pulltorefresh/library/R.java" afterPath="$PROJECT_DIR$/library/build/generated/source/r/androidTest/debug/com/handmark/pulltorefresh/library/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-he.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-he.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-it.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-pt-rBR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-pt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-zh.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values-zh.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/anim.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/layout.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-de/values-de.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-es/values-es.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-he/values-he.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-he/values-he.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-it/values-it.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-iw/values-iw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ro/values-ro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values-zh/values-zh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-de/values-de.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-es/values-es.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-he/values-he.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-he/values-he.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-it/values-it.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-iw/values-iw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-pt-rBR/values-pt-rBR.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ro/values-ro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values-zh/values-zh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-he/values-he.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-he/values-he.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values-zh/values-zh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/.gitignore" afterPath="$PROJECT_DIR$/library/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/generated/source/buildConfig/androidTest/debug/uk/co/senab/photoview/test/BuildConfig.java" afterPath="$PROJECT_DIR$/main/build/generated/source/buildConfig/androidTest/debug/uk/co/senab/photoview/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/generated/source/buildConfig/debug/uk/co/senab/photoview/BuildConfig.java" afterPath="$PROJECT_DIR$/main/build/generated/source/buildConfig/debug/uk/co/senab/photoview/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/generated/source/buildConfig/release/uk/co/senab/photoview/BuildConfig.java" afterPath="$PROJECT_DIR$/main/build/generated/source/buildConfig/release/uk/co/senab/photoview/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/main/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/.gitignore" afterPath="$PROJECT_DIR$/main/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/main.iml" afterPath="$PROJECT_DIR$/main/main.iml" />
     </list>
     <ignored path="qsapp.iws" />
@@ -876,17 +44,11 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state />
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="qsapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -5861,7 +5023,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="1924" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -5875,7 +5037,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -5889,9 +5051,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -5899,14 +5081,33 @@
               <option name="myItemId" value="qsapp" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qsapp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qsapp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QSAPP" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="192.168.56.101:5555" />
   </component>
@@ -6076,37 +5277,37 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3234fc80-f9da-42b6-a01f-9a3f868395b2" name="Default" comment="" />
-      <created>1460782574176</created>
+      <changelist id="93f58422-7cca-481b-890f-a98f856eac75" name="Default" comment="" />
+      <created>1460790518167</created>
       <option name="number" value="Default" />
-      <updated>1460782574176</updated>
+      <updated>1460790518167</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1924" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.077816494" sideWeight="0.49785867" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48896632" sideWeight="0.13436832" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5168409" sideWeight="0.8640257" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9535424" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48896632" sideWeight="0.8656317" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25350595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -6122,5 +5323,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WeiboSDK/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04109589">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

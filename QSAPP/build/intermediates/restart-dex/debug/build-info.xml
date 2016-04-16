@@ -4,26 +4,26 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="10468509690119" >
+    timestamp="1636322504614" >
 
     <task
         name="javac"
-        duration="432" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1734" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1046" />
+        duration="0" />
 
     <artifact
         location="D:\qsProject\qsapp\QSAPP\build\outputs\apk\QSAPP-debug.apk"
         type="MAIN" />
 
-    <build timestamp="10468509690119" >
+    <build timestamp="14011035337345" >
         <artifact
             location="D:\qsProject\qsapp\QSAPP\build\outputs\apk\QSAPP-debug.apk"
             type="MAIN" />
