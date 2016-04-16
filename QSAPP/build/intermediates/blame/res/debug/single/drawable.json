@@ -144,12 +144,12 @@
         "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_2.9.png",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\drawable\\blog_2.9.png"
-    },
-    {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_1.9.png",
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\drawable\\blog_1.9.png"
+    },
+    {
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_2.9.png",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\drawable\\blog_2.9.png"
     },
     {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\allview_loading.png",
@@ -168,10 +168,6 @@
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\drawable\\allview_load_succeed.png"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml"
-    },
-    {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_main_tab_bg.xml",
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\drawable\\xml_main_tab_bg.xml"
     },
@@ -182,6 +178,10 @@
     {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.9.png",
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\drawable\\avatar.9.png"
+    },
+    {
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml"
     },
     {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\drawable\\button_2.png",

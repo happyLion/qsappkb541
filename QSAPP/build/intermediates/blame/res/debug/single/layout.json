@@ -108,20 +108,20 @@
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_face.xml"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\help_doc.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\help_doc.xml"
-    },
-    {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_write.xml",
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\ui_write.xml"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_frame.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\test_frame.xml"
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\help_doc.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\help_doc.xml"
     },
     {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_list_menu.xml",
         "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\tpl_list_menu.xml"
+    },
+    {
+        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\test_frame.xml",
+        "source": "D:\\qsProject\\qsapp\\QSAPP\\res\\layout\\test_frame.xml"
     },
     {
         "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\layout\\ui_mytip.xml",
