@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+        "merged": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\exploded-aar\\qsappkb541\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+        "merged": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\exploded-aar\\qsappkb541\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+        "merged": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\exploded-aar\\qsappkb541\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
-        "source": "D:\\qsProject\\qsapp\\QSAPP\\build\\intermediates\\exploded-aar\\qsapp\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+        "merged": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\qsApp\\qsappkb541\\QSAPP\\build\\intermediates\\exploded-aar\\qsappkb541\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
     }
 ]

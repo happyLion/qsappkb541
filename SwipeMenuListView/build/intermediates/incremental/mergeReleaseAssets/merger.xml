@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\qsProject\qsapp\SwipeMenuListView\assets"/></dataSet><dataSet config="release"><source path="D:\qsProject\qsapp\SwipeMenuListView\build-types\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\qsApp\qsappkb541\SwipeMenuListView\assets"/></dataSet><dataSet config="release"><source path="D:\qsApp\qsappkb541\SwipeMenuListView\build-types\release\assets"/></dataSet></merger>

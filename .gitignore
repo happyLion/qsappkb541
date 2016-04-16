@@ -1,11 +1,14 @@
 release
 build
+/SwipeMenuListView/build
+/WeiboSDK/build
 .gradle
 local.properties
 gradle
 target
-build
+/QSAPP/build
 .settings
+/library/build
 .setting
 .project
 .classpath

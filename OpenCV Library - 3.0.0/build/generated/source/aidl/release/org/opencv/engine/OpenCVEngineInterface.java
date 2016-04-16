@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\qsProject\\qsapp\\OpenCV Library - 3.0.0\\src\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
+ * Original file: D:\\qsApp\\qsappkb541\\OpenCV Library - 3.0.0\\src\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
