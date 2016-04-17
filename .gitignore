@@ -1,6 +1,8 @@
 release
 /SwipeMenuListView/build/
 /WeiboSDK/build/
+/main/build
+/OpenCV Library - 3.0.0/build
 .gradle/
 local.properties
 gradle/
