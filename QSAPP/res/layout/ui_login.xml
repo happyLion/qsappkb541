@@ -79,13 +79,13 @@
 	</RelativeLayout>
 
         <!-- 默认效果，带图片文字的登陆按钮 -->
-        <com.sina.weibo.sdk.widget.LoginButton
-            android:id="@+id/login_button_default"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" 
-            android:layout_marginLeft="60dip"/>
-            <!-- android:background="@drawable/com_sina_weibo_sdk_login_button_with_account_text" /> -->
-                   
+        <!--<com.sina.weibo.sdk.widget.LoginButton-->
+            <!--android:id="@+id/login_button_default"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content" -->
+            <!--android:layout_marginLeft="60dip"/>-->
+            <!--&lt;!&ndash; android:background="@drawable/com_sina_weibo_sdk_login_button_with_account_text" /> &ndash;&gt;-->
+                   <!---->
 	    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

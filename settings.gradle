@@ -1,5 +1,4 @@
 include ':main'
-include ':WeiboSDK'
 include ':QSAPP'
 include ':library'
 include ':SwipeMenuListView'
